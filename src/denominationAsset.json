@@ -1,0 +1,9 @@
+[
+  {
+    "name": "aaveDAI",
+    "superName": "aaveDAIx",
+    "superToken": "0x06577b0B09e69148A45b866a0dE6643b6caC40Af",
+    "address": "0x001b3b4d0f3714ca98ba10f6042daebf0b1b7b6f",
+    "adapter": "0x2900AE01dAD72867184dAe811A1c2a1cF5F947f4"
+  }
+]
